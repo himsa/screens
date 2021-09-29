@@ -1,0 +1,6 @@
+package com.himsa.screens
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
